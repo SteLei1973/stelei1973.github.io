@@ -9,3 +9,5 @@ To this end, Smith and his fellow Agents possess a number of superhuman attribut
 * smart
 * leader of other agents
 * ability to launch Sentinel attacks on the real world
+
+> Never send a human to do a machine's job.
