@@ -11,3 +11,5 @@ To this end, Smith and his fellow Agents possess a number of superhuman attribut
 * ability to launch Sentinel attacks on the real world
 
 > Never send a human to do a machine's job.
+
+<img src="https://cdna.artstation.com/p/assets/images/images/008/764/038/4k/kamil-trocinski-smith-01.jpg?1515154048"/>
